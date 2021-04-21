@@ -1,6 +1,6 @@
 ﻿# Resize-Image
  
- ##### Resize Image Web app using Django & Pillow
+ ### Resize Image Web app using Django & Pillow
  
 ![Screenshot (119)](https://user-images.githubusercontent.com/54932235/115500754-9512ea80-a28f-11eb-970d-c35909339af2.png)
 

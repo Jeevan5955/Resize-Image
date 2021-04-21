@@ -6,9 +6,9 @@
 
 ## Commands:
 
-#pip install -r requirements
-#python manage.py makemigrations
-#python manage.py sqlmigrate resize 0001
-#python manage.py migrate
-#python manage.py runserver
+# pip install -r requirements
+# python manage.py makemigrations
+# python manage.py sqlmigrate resize 0001
+# python manage.py migrate
+# python manage.py runserver
 
